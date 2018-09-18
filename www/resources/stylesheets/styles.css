@@ -1,0 +1,18 @@
+.login {
+    height: 100%;
+    background: url("../../resources/images/Student_Involvement_Fair_20170824.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.container-login{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 3em;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.navbar-custom>li{
+    display: inline-block;
+}
